@@ -1,6 +1,6 @@
 <h1 align="center">CSE 4610 - Advanced Operating Systems</h1>
 <p align="center"><strong>Remote GitHub Repository for CSE 4610 Course Assignments</strong>
-<p align="center">This GitHub repository is for personal use for the purpose of demonstrating course work/projects</p>
+<br>This GitHub repository is for personal use for the purpose of demonstrating course work/projects
 <br>By Alyssa Wilcox</p>
 <br/>
 <h2>About</h2>
