@@ -53,8 +53,8 @@ int Sdisk::getBlock(int blockNumber, string& buffer)
 	f.open(diskName.c_str(), ios::in | ios::out);
 
 	//Position of block
-	//The k blocknumber is found at position (k-1) * blockSize
-	int position = (blockNumber - 1) * blockSize;
+	//The k blocknumber is found at position k * blockSize
+	int position = blockNumber * blockSize;
 
 	//Find the block to read in
 	f.seekg(position);
@@ -90,8 +90,8 @@ int Sdisk::putBlock(int blockNumber, string buffer)
 	f.open(diskName.c_str(), ios::in | ios::out);
 
 	//Position of block
-	//The k blocknumber is found at position (k-1) * blockSize
-	int position = (blockNumber - 1) * blockSize;
+	//The k blocknumber is found at position k * blockSize
+	int position = blockNumber * blockSize;
 
 	//Find the block to be written to
 	f.seekg(position);
