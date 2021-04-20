@@ -1,4 +1,4 @@
-<h1 align="center">Project Part 1</h1>
+<h1 align="center">Project Part 2</h1>
 
 <h2>Assignment Description</h2>
 
