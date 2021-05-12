@@ -31,7 +31,7 @@ This repository is meant to hold all course assignments for CSE 4610. It is for 
 4. *Project Part 4:* The fourth part of the project requires the implementation of a database system with a single table which uses the file system from Project Part 2.
 
 <h2>Project status</h2>
-Under construction
+Completed
 
 <h2>Credits</h2>
 
