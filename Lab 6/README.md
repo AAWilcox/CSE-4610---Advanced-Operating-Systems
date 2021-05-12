@@ -14,5 +14,5 @@ This laboratory is designed to create the shell project.
 
 <h2>Credits</h2>
 
-- Lab 5 Instructions: http://cse.csusb.edu/murphy/cse4610/lab6.html
+- Lab 6 Instructions: http://cse.csusb.edu/murphy/cse4610/lab6.html
 
